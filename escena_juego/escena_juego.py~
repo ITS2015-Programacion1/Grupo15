@@ -56,7 +56,7 @@ def agarrar_maleta(ActorQueCae, policia):
     maleta.transparencia = 100
     maleta.aprender(MoverseConElTeclado)
 
-def dejar_maleta(ActorQueCae, caja):
+def dejar_maleta(ActorQueCae, caja)
     maleta.eliminar()
 
 pilas.ejecutar() 
